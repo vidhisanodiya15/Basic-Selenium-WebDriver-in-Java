@@ -1,9 +1,8 @@
-# Applitools Example: Basic Selenium WebDriver in Java
+Basic Selenium WebDriver in Java
 
-This is the example project for the [Selenium Java Basic tutorial](https://applitools.com/tutorials).
+This is the example project for the Selenium Java Basic .
 It shows how to start automating visual tests
-with [Applitools Eyes](https://applitools.com/platform/eyes/)
-and [Selenium WebDriver](https://www.selenium.dev/) in Java.
+
 
 It uses:
 
